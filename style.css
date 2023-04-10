@@ -1,0 +1,23 @@
+.wrapper {
+    width: 960px;
+    margin: 0 auto;
+}
+
+.title {
+    margin-bottom: 50px;
+}
+
+
+.link {
+    background: #4bb247;
+    color: #fff;
+    padding: 15px;
+    border-radius: 4px;
+    font-size: 18px;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.link:first-child {
+    margin-right: 120px;
+}
